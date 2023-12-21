@@ -3,7 +3,7 @@
 Here are my edited ideas to get us started:
 
 - 🔭 I’m currently working on ..., well, we´ll see.
-- 🌱 I’m currently learning digital transformation.
+- 🌱 I’m currently learning 'digital transformation'.
 - 👯 I’m looking to collaborate on some nice tools.
 - 🤔 I’m looking for help with nearly everything new.
 - 💬 Ask me about something else.
